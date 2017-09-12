@@ -43,7 +43,7 @@ Write the name of the corresponding output file in the table, as well as the nam
 
 | **Method** | **Output file** | **Code** | **P@10** | **MAP** | **MRR** |
 | -- | -- | -- | -- | -- | -- |
-| Baseline (BM25) | `data/baseline.txt` | `2_Baseline_retrieval.ipynb` | *TODO* | *TODO* | *TODO* |
+| Baseline (BM25) | `data/baseline.txt` | `2_Baseline_retrieval.ipynb` | 1.82 | .064 | .333 |
 | MLM (default parameters) | `data/mlm_default.txt` | `4_MLM_scoring.ipynb` | *TODO* | *TODO* | *TODO* |
 | BM25 optimized | *TODO* | *TODO* | *TODO* | *TODO* | *TODO* |
 | MLM optimized | *TODO* | *TODO* | *TODO* | *TODO* | *TODO* |
